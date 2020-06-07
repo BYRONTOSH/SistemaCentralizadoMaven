@@ -1,6 +1,4 @@
-
 package com.mycompany.sistemacentralizadodos;
-
 import com.mycompany.sistemacentralizadodos.entidades.Producto;
 import com.mycompany.sistemacentralizadodos.entidades.session.ProductoJpaController;
 import java.math.BigDecimal;
